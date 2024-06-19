@@ -1,0 +1,40 @@
+p {
+	font-family: "Comic Sans MS";
+    text-align: justify;
+    width: 400px;
+    color: rgb(10, 241, 230);
+}
+h1{
+    color:blue
+}
+h2{
+    color: red;
+}
+i{
+    color: rgb(123, 321, 122);
+}
+b{
+    color: rgb(333, 222, 111
+    );
+}p {
+	font-size: 30px;
+	line-height:25px;
+}
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	text-decoration: underline;
+}
+p {
+	text-decoration: overline;
+    color: rgb(0, 255, 179);
+}
+p {
+	text-decoration: line-through;
+}
+a {
+	text-decoration: none;
+}
